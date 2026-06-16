@@ -1,0 +1,301 @@
+No,Provinsi,Tahun,Kabupaten/Kota,Satuan,Fisik,Psikis,Seksual,Eksploitasi,TPPO,Penelantaran,Cluster,Cluster_Label
+1,Jawa Tengah,2022,KABUPATEN CILACAP,Orang,2,5,6,1,0,0,0,Kerentanan Relatif Rendah
+2,Jawa Tengah,2022,KABUPATEN BANYUMAS,Orang,12,13,8,2,1,3,0,Kerentanan Relatif Rendah
+3,Jawa Tengah,2022,KABUPATEN PURBALINGGA,Orang,7,5,9,0,0,0,0,Kerentanan Relatif Rendah
+4,Jawa Tengah,2022,KABUPATEN BANJARNEGARA,Orang,4,9,4,0,0,3,0,Kerentanan Relatif Rendah
+5,Jawa Tengah,2022,KABUPATEN KEBUMEN,Orang,31,20,18,0,0,2,0,Kerentanan Relatif Rendah
+6,Jawa Tengah,2022,KABUPATEN PURWOREJO,Orang,5,21,4,0,0,6,0,Kerentanan Relatif Rendah
+7,Jawa Tengah,2022,KABUPATEN WONOSOBO,Orang,14,52,11,0,0,12,1,Kerentanan Tinggi
+8,Jawa Tengah,2022,KABUPATEN MAGELANG,Orang,7,21,10,0,0,6,0,Kerentanan Relatif Rendah
+9,Jawa Tengah,2022,KABUPATEN BOYOLALI,Orang,10,17,6,0,0,7,0,Kerentanan Relatif Rendah
+10,Jawa Tengah,2022,KABUPATEN KLATEN,Orang,8,15,4,3,0,5,0,Kerentanan Relatif Rendah
+11,Jawa Tengah,2022,KABUPATEN SUKOHARJO,Orang,20,7,8,0,0,7,0,Kerentanan Relatif Rendah
+12,Jawa Tengah,2022,KABUPATEN WONOGIRI,Orang,3,2,6,0,0,1,0,Kerentanan Relatif Rendah
+13,Jawa Tengah,2022,KABUPATEN KARANGANYAR,Orang,14,2,4,0,0,0,0,Kerentanan Relatif Rendah
+14,Jawa Tengah,2022,KABUPATEN SRAGEN,Orang,4,2,0,0,0,0,0,Kerentanan Relatif Rendah
+15,Jawa Tengah,2022,KABUPATEN GROBOGAN,Orang,8,5,10,0,0,1,0,Kerentanan Relatif Rendah
+16,Jawa Tengah,2022,KABUPATEN BLORA,Orang,4,1,0,0,0,0,0,Kerentanan Relatif Rendah
+17,Jawa Tengah,2022,KABUPATEN REMBANG,Orang,4,2,2,0,0,0,0,Kerentanan Relatif Rendah
+18,Jawa Tengah,2022,KABUPATEN PATI,Orang,16,1,1,0,0,0,0,Kerentanan Relatif Rendah
+19,Jawa Tengah,2022,KABUPATEN KUDUS,Orang,3,5,2,0,0,2,0,Kerentanan Relatif Rendah
+20,Jawa Tengah,2022,KABUPATEN JEPARA,Orang,11,3,2,0,0,1,0,Kerentanan Relatif Rendah
+21,Jawa Tengah,2022,KABUPATEN DEMAK,Orang,27,14,0,0,0,9,0,Kerentanan Relatif Rendah
+22,Jawa Tengah,2022,KABUPATEN SEMARANG,Orang,50,4,8,0,0,0,0,Kerentanan Relatif Rendah
+23,Jawa Tengah,2022,KABUPATEN TEMANGGUNG,Orang,5,6,2,0,0,1,0,Kerentanan Relatif Rendah
+24,Jawa Tengah,2022,KABUPATEN KENDAL,Orang,17,16,5,0,0,1,0,Kerentanan Relatif Rendah
+25,Jawa Tengah,2022,KABUPATEN BATANG,Orang,8,3,1,0,0,0,0,Kerentanan Relatif Rendah
+26,Jawa Tengah,2022,KABUPATEN PEKALONGAN,Orang,12,32,4,0,0,0,0,Kerentanan Relatif Rendah
+27,Jawa Tengah,2022,KABUPATEN PEMALANG,Orang,24,4,3,1,0,0,0,Kerentanan Relatif Rendah
+28,Jawa Tengah,2022,KABUPATEN TEGAL,Orang,24,29,5,0,0,7,0,Kerentanan Relatif Rendah
+29,Jawa Tengah,2022,KABUPATEN BREBES,Orang,11,15,13,2,0,2,0,Kerentanan Relatif Rendah
+30,Jawa Tengah,2022,KOTA MAGELANG,Orang,5,0,0,0,0,2,0,Kerentanan Relatif Rendah
+31,Jawa Tengah,2022,KOTA SURAKARTA,Orang,10,13,7,0,0,4,0,Kerentanan Relatif Rendah
+32,Jawa Tengah,2022,KOTA SALATIGA,Orang,8,6,4,0,0,2,0,Kerentanan Relatif Rendah
+33,Jawa Tengah,2022,KOTA SEMARANG,Orang,119,56,29,0,1,26,1,Kerentanan Tinggi
+34,Jawa Tengah,2022,KOTA PEKALONGAN,Orang,10,15,2,0,0,5,0,Kerentanan Relatif Rendah
+35,Jawa Tengah,2022,KOTA TEGAL,Orang,5,3,4,0,0,2,0,Kerentanan Relatif Rendah
+36,Jawa Barat,2022,KABUPATEN BOGOR,Orang,9,8,2,0,0,2,0,Kerentanan Relatif Rendah
+37,Jawa Barat,2022,KABUPATEN SUKABUMI,Orang,12,10,8,0,35,0,3,Prioritas TPPO
+38,Jawa Barat,2022,KABUPATEN CIANJUR,Orang,14,10,9,1,14,3,0,Kerentanan Relatif Rendah
+39,Jawa Barat,2022,KABUPATEN BANDUNG,Orang,37,24,11,0,2,12,1,Kerentanan Tinggi
+40,Jawa Barat,2022,KABUPATEN GARUT,Orang,3,6,1,0,0,1,0,Kerentanan Relatif Rendah
+41,Jawa Barat,2022,KABUPATEN TASIKMALAYA,Orang,7,3,8,0,1,0,0,Kerentanan Relatif Rendah
+42,Jawa Barat,2022,KABUPATEN CIAMIS,Orang,2,1,0,0,0,0,0,Kerentanan Relatif Rendah
+43,Jawa Barat,2022,KABUPATEN KUNINGAN,Orang,3,2,2,0,0,4,0,Kerentanan Relatif Rendah
+44,Jawa Barat,2022,KABUPATEN CIREBON,Orang,7,2,14,0,1,0,0,Kerentanan Relatif Rendah
+45,Jawa Barat,2022,KABUPATEN MAJALENGKA,Orang,3,0,0,0,0,0,0,Kerentanan Relatif Rendah
+46,Jawa Barat,2022,KABUPATEN SUMEDANG,Orang,1,2,0,0,0,0,0,Kerentanan Relatif Rendah
+47,Jawa Barat,2022,KABUPATEN INDRAMAYU,Orang,7,7,3,0,0,1,0,Kerentanan Relatif Rendah
+48,Jawa Barat,2022,KABUPATEN SUBANG,Orang,2,1,0,0,0,0,0,Kerentanan Relatif Rendah
+49,Jawa Barat,2022,KABUPATEN PURWAKARTA,Orang,8,11,3,0,0,2,0,Kerentanan Relatif Rendah
+50,Jawa Barat,2022,KABUPATEN KARAWANG,Orang,21,8,10,0,1,3,0,Kerentanan Relatif Rendah
+51,Jawa Barat,2022,KABUPATEN BEKASI,Orang,46,58,12,0,2,10,1,Kerentanan Tinggi
+52,Jawa Barat,2022,KABUPATEN BANDUNG BARAT,Orang,14,12,4,0,0,3,0,Kerentanan Relatif Rendah
+53,Jawa Barat,2022,KABUPATEN PANGANDARAN,Orang,4,1,1,0,0,0,0,Kerentanan Relatif Rendah
+54,Jawa Barat,2022,KOTA BOGOR,Orang,23,32,4,0,0,8,0,Kerentanan Relatif Rendah
+55,Jawa Barat,2022,KOTA SUKABUMI,Orang,4,3,3,2,0,0,0,Kerentanan Relatif Rendah
+56,Jawa Barat,2022,KOTA BANDUNG,Orang,96,166,49,3,0,54,2,Kerentanan Sangat Tinggi
+57,Jawa Barat,2022,KOTA CIREBON,Orang,0,1,0,0,0,0,0,Kerentanan Relatif Rendah
+58,Jawa Barat,2022,KOTA BEKASI,Orang,2,1,1,0,0,0,0,Kerentanan Relatif Rendah
+59,Jawa Barat,2022,KOTA DEPOK,Orang,34,51,14,0,0,8,1,Kerentanan Tinggi
+60,Jawa Barat,2022,KOTA CIMAHI,Orang,5,9,1,1,0,9,0,Kerentanan Relatif Rendah
+61,Jawa Barat,2022,KOTA TASIKMALAYA,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+62,Jawa Barat,2022,KOTA BANJAR,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+63,Jawa Timur,2022,KABUPATEN PACITAN,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+64,Jawa Timur,2022,KABUPATEN PONOROGO,Orang,5,7,2,0,0,5,0,Kerentanan Relatif Rendah
+65,Jawa Timur,2022,KABUPATEN TRENGGALEK,Orang,3,3,4,0,0,4,0,Kerentanan Relatif Rendah
+66,Jawa Timur,2022,KABUPATEN TULUNGAGUNG,Orang,17,7,9,1,1,2,0,Kerentanan Relatif Rendah
+67,Jawa Timur,2022,KABUPATEN BLITAR,Orang,7,15,3,0,0,2,0,Kerentanan Relatif Rendah
+68,Jawa Timur,2022,KABUPATEN KEDIRI,Orang,33,1,2,0,0,0,0,Kerentanan Relatif Rendah
+69,Jawa Timur,2022,KABUPATEN MALANG,Orang,8,20,13,0,0,4,0,Kerentanan Relatif Rendah
+70,Jawa Timur,2022,KABUPATEN LUMAJANG,Orang,9,6,3,0,0,1,0,Kerentanan Relatif Rendah
+71,Jawa Timur,2022,KABUPATEN JEMBER,Orang,17,83,37,0,0,8,1,Kerentanan Tinggi
+72,Jawa Timur,2022,KABUPATEN BANYUWANGI,Orang,14,7,7,0,0,4,0,Kerentanan Relatif Rendah
+73,Jawa Timur,2022,KABUPATEN BONDOWOSO,Orang,13,0,9,1,0,11,0,Kerentanan Relatif Rendah
+74,Jawa Timur,2022,KABUPATEN SITUBONDO,Orang,28,12,9,0,0,3,0,Kerentanan Relatif Rendah
+75,Jawa Timur,2022,KABUPATEN PROBOLINGGO,Orang,37,37,3,0,0,0,0,Kerentanan Relatif Rendah
+76,Jawa Timur,2022,KABUPATEN PASURUAN,Orang,9,5,7,0,0,8,0,Kerentanan Relatif Rendah
+77,Jawa Timur,2022,KABUPATEN SIDOARJO,Orang,34,70,11,0,0,32,1,Kerentanan Tinggi
+78,Jawa Timur,2022,KABUPATEN MOJOKERTO,Orang,6,10,2,0,1,2,0,Kerentanan Relatif Rendah
+79,Jawa Timur,2022,KABUPATEN JOMBANG,Orang,8,6,8,0,0,3,0,Kerentanan Relatif Rendah
+80,Jawa Timur,2022,KABUPATEN NGANJUK,Orang,2,10,2,0,0,1,0,Kerentanan Relatif Rendah
+81,Jawa Timur,2022,KABUPATEN MADIUN,Orang,0,0,4,0,0,0,0,Kerentanan Relatif Rendah
+82,Jawa Timur,2022,KABUPATEN MAGETAN,Orang,6,9,6,0,0,6,0,Kerentanan Relatif Rendah
+83,Jawa Timur,2022,KABUPATEN NGAWI,Orang,1,5,5,0,0,0,0,Kerentanan Relatif Rendah
+84,Jawa Timur,2022,KABUPATEN BOJONEGORO,Orang,1,3,0,0,0,2,0,Kerentanan Relatif Rendah
+85,Jawa Timur,2022,KABUPATEN TUBAN,Orang,29,20,4,0,0,4,0,Kerentanan Relatif Rendah
+86,Jawa Timur,2022,KABUPATEN LAMONGAN,Orang,30,11,5,0,0,5,0,Kerentanan Relatif Rendah
+87,Jawa Timur,2022,KABUPATEN GRESIK,Orang,17,23,4,2,0,2,0,Kerentanan Relatif Rendah
+88,Jawa Timur,2022,KABUPATEN BANGKALAN,Orang,13,9,3,0,0,1,0,Kerentanan Relatif Rendah
+89,Jawa Timur,2022,KABUPATEN SAMPANG,Orang,6,0,2,0,0,0,0,Kerentanan Relatif Rendah
+90,Jawa Timur,2022,KABUPATEN PAMEKASAN,Orang,24,1,0,0,0,8,0,Kerentanan Relatif Rendah
+91,Jawa Timur,2022,KABUPATEN SUMENEP,Orang,18,18,2,0,0,8,0,Kerentanan Relatif Rendah
+92,Jawa Timur,2022,KOTA KEDIRI,Orang,0,1,2,0,0,0,0,Kerentanan Relatif Rendah
+93,Jawa Timur,2022,KOTA BLITAR,Orang,6,12,0,0,0,3,0,Kerentanan Relatif Rendah
+94,Jawa Timur,2022,KOTA MALANG,Orang,9,11,5,1,0,1,0,Kerentanan Relatif Rendah
+95,Jawa Timur,2022,KOTA PROBOLINGGO,Orang,11,7,0,0,0,3,0,Kerentanan Relatif Rendah
+96,Jawa Timur,2022,KOTA PASURUAN,Orang,11,11,0,0,0,0,0,Kerentanan Relatif Rendah
+97,Jawa Timur,2022,KOTA MOJOKERTO,Orang,9,2,2,0,1,0,0,Kerentanan Relatif Rendah
+98,Jawa Timur,2022,KOTA MADIUN,Orang,1,1,1,0,0,3,0,Kerentanan Relatif Rendah
+99,Jawa Timur,2022,KOTA SURABAYA,Orang,20,13,10,0,0,6,0,Kerentanan Relatif Rendah
+100,Jawa Timur,2022,KOTA BATU,Orang,1,1,2,0,0,2,0,Kerentanan Relatif Rendah
+101,Jawa Tengah,2023,KABUPATEN CILACAP,Orang,8,8,11,0,0,0,0,Kerentanan Relatif Rendah
+102,Jawa Tengah,2023,KABUPATEN BANYUMAS,Orang,22,19,11,1,5,5,0,Kerentanan Relatif Rendah
+103,Jawa Tengah,2023,KABUPATEN PURBALINGGA,Orang,8,1,3,0,0,0,0,Kerentanan Relatif Rendah
+104,Jawa Tengah,2023,KABUPATEN BANJARNEGARA,Orang,4,5,1,0,0,0,0,Kerentanan Relatif Rendah
+105,Jawa Tengah,2023,KABUPATEN KEBUMEN,Orang,23,8,11,1,0,2,0,Kerentanan Relatif Rendah
+106,Jawa Tengah,2023,KABUPATEN PURWOREJO,Orang,9,19,4,0,0,8,0,Kerentanan Relatif Rendah
+107,Jawa Tengah,2023,KABUPATEN WONOSOBO,Orang,22,58,9,0,0,21,1,Kerentanan Tinggi
+108,Jawa Tengah,2023,KABUPATEN MAGELANG,Orang,22,71,26,0,0,29,1,Kerentanan Tinggi
+109,Jawa Tengah,2023,KABUPATEN BOYOLALI,Orang,11,13,4,0,0,2,0,Kerentanan Relatif Rendah
+110,Jawa Tengah,2023,KABUPATEN KLATEN,Orang,4,5,0,0,0,4,0,Kerentanan Relatif Rendah
+111,Jawa Tengah,2023,KABUPATEN SUKOHARJO,Orang,19,3,4,0,0,3,0,Kerentanan Relatif Rendah
+112,Jawa Tengah,2023,KABUPATEN WONOGIRI,Orang,0,2,0,0,0,0,0,Kerentanan Relatif Rendah
+113,Jawa Tengah,2023,KABUPATEN KARANGANYAR,Orang,9,7,5,0,0,3,0,Kerentanan Relatif Rendah
+114,Jawa Tengah,2023,KABUPATEN SRAGEN,Orang,15,3,3,0,0,1,0,Kerentanan Relatif Rendah
+115,Jawa Tengah,2023,KABUPATEN GROBOGAN,Orang,8,4,4,3,0,0,0,Kerentanan Relatif Rendah
+116,Jawa Tengah,2023,KABUPATEN BLORA,Orang,2,0,2,0,0,1,0,Kerentanan Relatif Rendah
+117,Jawa Tengah,2023,KABUPATEN REMBANG,Orang,1,2,1,0,0,0,0,Kerentanan Relatif Rendah
+118,Jawa Tengah,2023,KABUPATEN PATI,Orang,13,2,2,0,0,2,0,Kerentanan Relatif Rendah
+119,Jawa Tengah,2023,KABUPATEN KUDUS,Orang,2,0,1,0,0,0,0,Kerentanan Relatif Rendah
+120,Jawa Tengah,2023,KABUPATEN JEPARA,Orang,14,9,5,0,0,3,0,Kerentanan Relatif Rendah
+121,Jawa Tengah,2023,KABUPATEN DEMAK,Orang,25,20,7,0,0,11,0,Kerentanan Relatif Rendah
+122,Jawa Tengah,2023,KABUPATEN SEMARANG,Orang,63,7,5,0,0,3,0,Kerentanan Relatif Rendah
+123,Jawa Tengah,2023,KABUPATEN TEMANGGUNG,Orang,2,2,1,0,0,0,0,Kerentanan Relatif Rendah
+124,Jawa Tengah,2023,KABUPATEN KENDAL,Orang,19,13,3,0,0,6,0,Kerentanan Relatif Rendah
+125,Jawa Tengah,2023,KABUPATEN BATANG,Orang,3,3,12,0,0,2,0,Kerentanan Relatif Rendah
+126,Jawa Tengah,2023,KABUPATEN PEKALONGAN,Orang,21,40,11,0,1,4,0,Kerentanan Relatif Rendah
+127,Jawa Tengah,2023,KABUPATEN PEMALANG,Orang,23,6,18,0,0,2,0,Kerentanan Relatif Rendah
+128,Jawa Tengah,2023,KABUPATEN TEGAL,Orang,8,15,7,0,0,0,0,Kerentanan Relatif Rendah
+129,Jawa Tengah,2023,KABUPATEN BREBES,Orang,10,3,7,0,0,2,0,Kerentanan Relatif Rendah
+130,Jawa Tengah,2023,KOTA MAGELANG,Orang,4,5,5,0,1,3,0,Kerentanan Relatif Rendah
+131,Jawa Tengah,2023,KOTA SURAKARTA,Orang,9,17,14,0,0,9,0,Kerentanan Relatif Rendah
+132,Jawa Tengah,2023,KOTA SALATIGA,Orang,13,7,4,0,0,1,0,Kerentanan Relatif Rendah
+133,Jawa Tengah,2023,KOTA SEMARANG,Orang,79,33,26,1,1,17,1,Kerentanan Tinggi
+134,Jawa Tengah,2023,KOTA PEKALONGAN,Orang,10,13,4,1,0,7,0,Kerentanan Relatif Rendah
+135,Jawa Tengah,2023,KOTA TEGAL,Orang,8,7,5,0,0,1,0,Kerentanan Relatif Rendah
+136,Jawa Barat,2023,KABUPATEN BOGOR,Orang,25,28,7,0,0,2,0,Kerentanan Relatif Rendah
+137,Jawa Barat,2023,KABUPATEN SUKABUMI,Orang,22,10,21,1,26,1,3,Prioritas TPPO
+138,Jawa Barat,2023,KABUPATEN CIANJUR,Orang,17,34,14,1,5,2,0,Kerentanan Relatif Rendah
+139,Jawa Barat,2023,KABUPATEN BANDUNG,Orang,15,17,10,0,1,4,0,Kerentanan Relatif Rendah
+140,Jawa Barat,2023,KABUPATEN GARUT,Orang,11,13,11,0,0,1,0,Kerentanan Relatif Rendah
+141,Jawa Barat,2023,KABUPATEN TASIKMALAYA,Orang,14,2,13,0,1,1,0,Kerentanan Relatif Rendah
+142,Jawa Barat,2023,KABUPATEN CIAMIS,Orang,0,1,2,1,0,0,0,Kerentanan Relatif Rendah
+143,Jawa Barat,2023,KABUPATEN KUNINGAN,Orang,14,8,5,0,0,1,0,Kerentanan Relatif Rendah
+144,Jawa Barat,2023,KABUPATEN CIREBON,Orang,10,10,9,1,1,1,0,Kerentanan Relatif Rendah
+145,Jawa Barat,2023,KABUPATEN MAJALENGKA,Orang,1,1,2,0,0,0,0,Kerentanan Relatif Rendah
+146,Jawa Barat,2023,KABUPATEN SUMEDANG,Orang,20,1,1,0,1,0,0,Kerentanan Relatif Rendah
+147,Jawa Barat,2023,KABUPATEN INDRAMAYU,Orang,5,1,3,3,0,0,0,Kerentanan Relatif Rendah
+148,Jawa Barat,2023,KABUPATEN SUBANG,Orang,18,3,7,0,2,0,0,Kerentanan Relatif Rendah
+149,Jawa Barat,2023,KABUPATEN PURWAKARTA,Orang,4,10,3,0,0,0,0,Kerentanan Relatif Rendah
+150,Jawa Barat,2023,KABUPATEN KARAWANG,Orang,30,17,12,1,0,6,0,Kerentanan Relatif Rendah
+151,Jawa Barat,2023,KABUPATEN BEKASI,Orang,73,67,28,7,3,4,1,Kerentanan Tinggi
+152,Jawa Barat,2023,KABUPATEN BANDUNG BARAT,Orang,20,15,9,0,0,3,0,Kerentanan Relatif Rendah
+153,Jawa Barat,2023,KABUPATEN PANGANDARAN,Orang,2,0,0,0,0,7,0,Kerentanan Relatif Rendah
+154,Jawa Barat,2023,KOTA BOGOR,Orang,2,23,4,0,0,0,0,Kerentanan Relatif Rendah
+155,Jawa Barat,2023,KOTA SUKABUMI,Orang,8,10,1,2,1,0,0,Kerentanan Relatif Rendah
+156,Jawa Barat,2023,KOTA BANDUNG,Orang,96,180,50,7,1,71,2,Kerentanan Sangat Tinggi
+157,Jawa Barat,2023,KOTA CIREBON,Orang,2,1,0,0,0,0,0,Kerentanan Relatif Rendah
+158,Jawa Barat,2023,KOTA BEKASI,Orang,6,6,1,1,0,2,0,Kerentanan Relatif Rendah
+159,Jawa Barat,2023,KOTA DEPOK,Orang,65,54,11,1,0,20,1,Kerentanan Tinggi
+160,Jawa Barat,2023,KOTA CIMAHI,Orang,7,7,2,1,0,2,0,Kerentanan Relatif Rendah
+161,Jawa Barat,2023,KOTA TASIKMALAYA,Orang,1,4,2,0,0,0,0,Kerentanan Relatif Rendah
+162,Jawa Barat,2023,KOTA BANJAR,Orang,1,2,0,0,0,0,0,Kerentanan Relatif Rendah
+163,Jawa Timur,2023,KABUPATEN PACITAN,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+164,Jawa Timur,2023,KABUPATEN PONOROGO,Orang,2,3,0,0,0,0,0,Kerentanan Relatif Rendah
+165,Jawa Timur,2023,KABUPATEN TRENGGALEK,Orang,5,3,1,0,0,4,0,Kerentanan Relatif Rendah
+166,Jawa Timur,2023,KABUPATEN TULUNGAGUNG,Orang,3,6,3,1,1,1,0,Kerentanan Relatif Rendah
+167,Jawa Timur,2023,KABUPATEN BLITAR,Orang,10,13,4,1,0,3,0,Kerentanan Relatif Rendah
+168,Jawa Timur,2023,KABUPATEN KEDIRI,Orang,16,1,3,0,0,1,0,Kerentanan Relatif Rendah
+169,Jawa Timur,2023,KABUPATEN MALANG,Orang,20,34,14,1,5,10,1,Kerentanan Tinggi
+170,Jawa Timur,2023,KABUPATEN LUMAJANG,Orang,3,5,2,0,0,0,0,Kerentanan Relatif Rendah
+171,Jawa Timur,2023,KABUPATEN JEMBER,Orang,15,65,27,0,0,3,1,Kerentanan Tinggi
+172,Jawa Timur,2023,KABUPATEN BANYUWANGI,Orang,78,11,8,4,0,3,1,Kerentanan Tinggi
+173,Jawa Timur,2023,KABUPATEN BONDOWOSO,Orang,7,2,1,0,0,5,0,Kerentanan Relatif Rendah
+174,Jawa Timur,2023,KABUPATEN SITUBONDO,Orang,27,7,6,1,4,7,0,Kerentanan Relatif Rendah
+175,Jawa Timur,2023,KABUPATEN PROBOLINGGO,Orang,5,4,0,0,0,0,0,Kerentanan Relatif Rendah
+176,Jawa Timur,2023,KABUPATEN PASURUAN,Orang,13,1,4,3,4,2,0,Kerentanan Relatif Rendah
+177,Jawa Timur,2023,KABUPATEN SIDOARJO,Orang,41,65,11,2,0,27,1,Kerentanan Tinggi
+178,Jawa Timur,2023,KABUPATEN MOJOKERTO,Orang,23,6,1,2,0,4,0,Kerentanan Relatif Rendah
+179,Jawa Timur,2023,KABUPATEN JOMBANG,Orang,7,2,1,0,0,5,0,Kerentanan Relatif Rendah
+180,Jawa Timur,2023,KABUPATEN NGANJUK,Orang,12,25,4,1,0,9,0,Kerentanan Relatif Rendah
+181,Jawa Timur,2023,KABUPATEN MADIUN,Orang,2,0,4,0,0,0,0,Kerentanan Relatif Rendah
+182,Jawa Timur,2023,KABUPATEN MAGETAN,Orang,2,3,1,0,0,0,0,Kerentanan Relatif Rendah
+183,Jawa Timur,2023,KABUPATEN NGAWI,Orang,6,1,2,0,0,2,0,Kerentanan Relatif Rendah
+184,Jawa Timur,2023,KABUPATEN BOJONEGORO,Orang,3,3,2,0,0,4,0,Kerentanan Relatif Rendah
+185,Jawa Timur,2023,KABUPATEN TUBAN,Orang,11,0,1,0,0,0,0,Kerentanan Relatif Rendah
+186,Jawa Timur,2023,KABUPATEN LAMONGAN,Orang,4,3,1,0,0,0,0,Kerentanan Relatif Rendah
+187,Jawa Timur,2023,KABUPATEN GRESIK,Orang,49,32,3,0,0,7,1,Kerentanan Tinggi
+188,Jawa Timur,2023,KABUPATEN BANGKALAN,Orang,4,3,7,0,0,0,0,Kerentanan Relatif Rendah
+189,Jawa Timur,2023,KABUPATEN SAMPANG,Orang,6,2,4,0,0,0,0,Kerentanan Relatif Rendah
+190,Jawa Timur,2023,KABUPATEN PAMEKASAN,Orang,23,2,6,1,0,9,0,Kerentanan Relatif Rendah
+191,Jawa Timur,2023,KABUPATEN SUMENEP,Orang,3,4,2,0,0,2,0,Kerentanan Relatif Rendah
+192,Jawa Timur,2023,KOTA KEDIRI,Orang,5,2,0,0,0,1,0,Kerentanan Relatif Rendah
+193,Jawa Timur,2023,KOTA BLITAR,Orang,0,0,0,0,0,1,0,Kerentanan Relatif Rendah
+194,Jawa Timur,2023,KOTA MALANG,Orang,12,11,4,1,0,3,0,Kerentanan Relatif Rendah
+195,Jawa Timur,2023,KOTA PROBOLINGGO,Orang,14,7,3,0,1,3,0,Kerentanan Relatif Rendah
+196,Jawa Timur,2023,KOTA PASURUAN,Orang,3,4,2,0,0,0,0,Kerentanan Relatif Rendah
+197,Jawa Timur,2023,KOTA MOJOKERTO,Orang,6,3,0,0,0,0,0,Kerentanan Relatif Rendah
+198,Jawa Timur,2023,KOTA MADIUN,Orang,2,2,1,0,0,2,0,Kerentanan Relatif Rendah
+199,Jawa Timur,2023,KOTA SURABAYA,Orang,63,29,14,0,0,16,1,Kerentanan Tinggi
+200,Jawa Timur,2023,KOTA BATU,Orang,7,11,2,3,0,7,0,Kerentanan Relatif Rendah
+201,Jawa Tengah,2024,KABUPATEN CILACAP,Orang,4,0,4,0,0,0,0,Kerentanan Relatif Rendah
+202,Jawa Tengah,2024,KABUPATEN BANYUMAS,Orang,29,40,20,2,0,6,1,Kerentanan Tinggi
+203,Jawa Tengah,2024,KABUPATEN PURBALINGGA,Orang,11,7,8,0,0,1,0,Kerentanan Relatif Rendah
+204,Jawa Tengah,2024,KABUPATEN BANJARNEGARA,Orang,5,8,6,0,0,1,0,Kerentanan Relatif Rendah
+205,Jawa Tengah,2024,KABUPATEN KEBUMEN,Orang,43,10,14,0,0,1,0,Kerentanan Relatif Rendah
+206,Jawa Tengah,2024,KABUPATEN PURWOREJO,Orang,13,22,7,0,0,4,0,Kerentanan Relatif Rendah
+207,Jawa Tengah,2024,KABUPATEN WONOSOBO,Orang,17,46,10,0,0,11,1,Kerentanan Tinggi
+208,Jawa Tengah,2024,KABUPATEN MAGELANG,Orang,16,36,8,0,0,2,0,Kerentanan Relatif Rendah
+209,Jawa Tengah,2024,KABUPATEN BOYOLALI,Orang,6,7,4,0,0,0,0,Kerentanan Relatif Rendah
+210,Jawa Tengah,2024,KABUPATEN KLATEN,Orang,2,2,3,0,0,0,0,Kerentanan Relatif Rendah
+211,Jawa Tengah,2024,KABUPATEN SUKOHARJO,Orang,46,7,11,0,0,3,0,Kerentanan Relatif Rendah
+212,Jawa Tengah,2024,KABUPATEN WONOGIRI,Orang,1,4,0,0,0,0,0,Kerentanan Relatif Rendah
+213,Jawa Tengah,2024,KABUPATEN KARANGANYAR,Orang,9,3,6,0,0,3,0,Kerentanan Relatif Rendah
+214,Jawa Tengah,2024,KABUPATEN SRAGEN,Orang,4,0,6,0,0,0,0,Kerentanan Relatif Rendah
+215,Jawa Tengah,2024,KABUPATEN GROBOGAN,Orang,1,0,0,0,0,0,0,Kerentanan Relatif Rendah
+216,Jawa Tengah,2024,KABUPATEN BLORA,Orang,3,2,4,1,0,2,0,Kerentanan Relatif Rendah
+217,Jawa Tengah,2024,KABUPATEN REMBANG,Orang,5,2,2,0,0,1,0,Kerentanan Relatif Rendah
+218,Jawa Tengah,2024,KABUPATEN PATI,Orang,6,3,2,0,0,0,0,Kerentanan Relatif Rendah
+219,Jawa Tengah,2024,KABUPATEN KUDUS,Orang,5,0,0,0,0,1,0,Kerentanan Relatif Rendah
+220,Jawa Tengah,2024,KABUPATEN JEPARA,Orang,13,8,3,0,0,2,0,Kerentanan Relatif Rendah
+221,Jawa Tengah,2024,KABUPATEN DEMAK,Orang,22,3,5,0,0,0,0,Kerentanan Relatif Rendah
+222,Jawa Tengah,2024,KABUPATEN SEMARANG,Orang,66,17,5,1,0,0,1,Kerentanan Tinggi
+223,Jawa Tengah,2024,KABUPATEN TEMANGGUNG,Orang,4,7,1,1,0,1,0,Kerentanan Relatif Rendah
+224,Jawa Tengah,2024,KABUPATEN KENDAL,Orang,14,3,2,0,0,2,0,Kerentanan Relatif Rendah
+225,Jawa Tengah,2024,KABUPATEN BATANG,Orang,6,1,1,0,0,1,0,Kerentanan Relatif Rendah
+226,Jawa Tengah,2024,KABUPATEN PEKALONGAN,Orang,14,30,4,0,1,1,0,Kerentanan Relatif Rendah
+227,Jawa Tengah,2024,KABUPATEN PEMALANG,Orang,10,4,6,0,0,2,0,Kerentanan Relatif Rendah
+228,Jawa Tengah,2024,KABUPATEN TEGAL,Orang,11,8,5,0,0,2,0,Kerentanan Relatif Rendah
+229,Jawa Tengah,2024,KABUPATEN BREBES,Orang,15,11,12,0,0,0,0,Kerentanan Relatif Rendah
+230,Jawa Tengah,2024,KOTA MAGELANG,Orang,9,24,2,0,0,11,0,Kerentanan Relatif Rendah
+231,Jawa Tengah,2024,KOTA SURAKARTA,Orang,15,18,7,0,0,6,0,Kerentanan Relatif Rendah
+232,Jawa Tengah,2024,KOTA SALATIGA,Orang,10,4,10,2,0,2,0,Kerentanan Relatif Rendah
+233,Jawa Tengah,2024,KOTA SEMARANG,Orang,113,46,25,0,1,19,1,Kerentanan Tinggi
+234,Jawa Tengah,2024,KOTA PEKALONGAN,Orang,8,8,3,0,0,3,0,Kerentanan Relatif Rendah
+235,Jawa Tengah,2024,KOTA TEGAL,Orang,7,16,9,0,0,0,0,Kerentanan Relatif Rendah
+236,Jawa Barat,2024,KABUPATEN BOGOR,Orang,20,19,9,0,0,0,0,Kerentanan Relatif Rendah
+237,Jawa Barat,2024,KABUPATEN SUKABUMI,Orang,29,11,19,0,15,1,0,Kerentanan Relatif Rendah
+238,Jawa Barat,2024,KABUPATEN CIANJUR,Orang,16,13,9,1,1,3,0,Kerentanan Relatif Rendah
+239,Jawa Barat,2024,KABUPATEN BANDUNG,Orang,17,13,17,1,1,1,0,Kerentanan Relatif Rendah
+240,Jawa Barat,2024,KABUPATEN GARUT,Orang,8,6,14,1,0,2,0,Kerentanan Relatif Rendah
+241,Jawa Barat,2024,KABUPATEN TASIKMALAYA,Orang,3,1,4,0,0,1,0,Kerentanan Relatif Rendah
+242,Jawa Barat,2024,KABUPATEN CIAMIS,Orang,3,3,5,0,0,0,0,Kerentanan Relatif Rendah
+243,Jawa Barat,2024,KABUPATEN KUNINGAN,Orang,5,7,7,0,0,3,0,Kerentanan Relatif Rendah
+244,Jawa Barat,2024,KABUPATEN CIREBON,Orang,17,25,13,7,1,3,1,Kerentanan Tinggi
+245,Jawa Barat,2024,KABUPATEN MAJALENGKA,Orang,6,0,2,0,0,1,0,Kerentanan Relatif Rendah
+246,Jawa Barat,2024,KABUPATEN SUMEDANG,Orang,3,7,4,0,0,0,0,Kerentanan Relatif Rendah
+247,Jawa Barat,2024,KABUPATEN INDRAMAYU,Orang,15,8,9,2,0,2,0,Kerentanan Relatif Rendah
+248,Jawa Barat,2024,KABUPATEN SUBANG,Orang,12,9,13,0,2,3,0,Kerentanan Relatif Rendah
+249,Jawa Barat,2024,KABUPATEN PURWAKARTA,Orang,8,39,10,0,0,0,0,Kerentanan Relatif Rendah
+250,Jawa Barat,2024,KABUPATEN KARAWANG,Orang,14,6,5,1,0,1,0,Kerentanan Relatif Rendah
+251,Jawa Barat,2024,KABUPATEN BEKASI,Orang,24,31,35,1,3,7,1,Kerentanan Tinggi
+252,Jawa Barat,2024,KABUPATEN BANDUNG BARAT,Orang,17,13,4,0,1,4,0,Kerentanan Relatif Rendah
+253,Jawa Barat,2024,KABUPATEN PANGANDARAN,Orang,4,0,3,0,0,0,0,Kerentanan Relatif Rendah
+254,Jawa Barat,2024,KOTA BOGOR,Orang,15,24,8,0,0,5,0,Kerentanan Relatif Rendah
+255,Jawa Barat,2024,KOTA SUKABUMI,Orang,10,26,3,0,0,0,0,Kerentanan Relatif Rendah
+256,Jawa Barat,2024,KOTA BANDUNG,Orang,63,130,37,1,0,39,2,Kerentanan Sangat Tinggi
+257,Jawa Barat,2024,KOTA CIREBON,Orang,1,1,0,0,0,0,0,Kerentanan Relatif Rendah
+258,Jawa Barat,2024,KOTA BEKASI,Orang,38,34,29,0,0,16,1,Kerentanan Tinggi
+259,Jawa Barat,2024,KOTA DEPOK,Orang,53,32,17,0,0,4,1,Kerentanan Tinggi
+260,Jawa Barat,2024,KOTA CIMAHI,Orang,19,16,7,3,0,12,1,Kerentanan Tinggi
+261,Jawa Barat,2024,KOTA TASIKMALAYA,Orang,14,1,3,0,0,1,0,Kerentanan Relatif Rendah
+262,Jawa Barat,2024,KOTA BANJAR,Orang,4,0,2,0,0,1,0,Kerentanan Relatif Rendah
+263,Jawa Timur,2024,KABUPATEN PACITAN,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+264,Jawa Timur,2024,KABUPATEN PONOROGO,Orang,4,2,2,0,0,5,0,Kerentanan Relatif Rendah
+265,Jawa Timur,2024,KABUPATEN TRENGGALEK,Orang,2,10,3,2,0,7,0,Kerentanan Relatif Rendah
+266,Jawa Timur,2024,KABUPATEN TULUNGAGUNG,Orang,6,4,1,0,0,2,0,Kerentanan Relatif Rendah
+267,Jawa Timur,2024,KABUPATEN BLITAR,Orang,8,16,8,2,44,1,3,Prioritas TPPO
+268,Jawa Timur,2024,KABUPATEN KEDIRI,Orang,9,2,7,0,0,0,0,Kerentanan Relatif Rendah
+269,Jawa Timur,2024,KABUPATEN MALANG,Orang,20,16,18,2,1,10,1,Kerentanan Tinggi
+270,Jawa Timur,2024,KABUPATEN LUMAJANG,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+271,Jawa Timur,2024,KABUPATEN JEMBER,Orang,13,85,52,1,1,11,1,Kerentanan Tinggi
+272,Jawa Timur,2024,KABUPATEN BANYUWANGI,Orang,21,2,11,0,0,0,0,Kerentanan Relatif Rendah
+273,Jawa Timur,2024,KABUPATEN BONDOWOSO,Orang,5,1,2,0,0,3,0,Kerentanan Relatif Rendah
+274,Jawa Timur,2024,KABUPATEN SITUBONDO,Orang,22,19,4,1,3,5,0,Kerentanan Relatif Rendah
+275,Jawa Timur,2024,KABUPATEN PROBOLINGGO,Orang,2,3,2,0,0,0,0,Kerentanan Relatif Rendah
+276,Jawa Timur,2024,KABUPATEN PASURUAN,Orang,12,6,6,0,1,1,0,Kerentanan Relatif Rendah
+277,Jawa Timur,2024,KABUPATEN SIDOARJO,Orang,38,64,14,1,0,12,1,Kerentanan Tinggi
+278,Jawa Timur,2024,KABUPATEN MOJOKERTO,Orang,4,0,3,0,0,1,0,Kerentanan Relatif Rendah
+279,Jawa Timur,2024,KABUPATEN JOMBANG,Orang,34,11,16,0,0,27,1,Kerentanan Tinggi
+280,Jawa Timur,2024,KABUPATEN NGANJUK,Orang,3,1,0,0,0,2,0,Kerentanan Relatif Rendah
+281,Jawa Timur,2024,KABUPATEN MADIUN,Orang,5,0,1,0,0,0,0,Kerentanan Relatif Rendah
+282,Jawa Timur,2024,KABUPATEN MAGETAN,Orang,9,5,5,0,0,2,0,Kerentanan Relatif Rendah
+283,Jawa Timur,2024,KABUPATEN NGAWI,Orang,4,0,2,0,0,1,0,Kerentanan Relatif Rendah
+284,Jawa Timur,2024,KABUPATEN BOJONEGORO,Orang,6,5,5,0,0,4,0,Kerentanan Relatif Rendah
+285,Jawa Timur,2024,KABUPATEN TUBAN,Orang,2,2,0,0,0,0,0,Kerentanan Relatif Rendah
+286,Jawa Timur,2024,KABUPATEN LAMONGAN,Orang,0,0,0,0,0,0,0,Kerentanan Relatif Rendah
+287,Jawa Timur,2024,KABUPATEN GRESIK,Orang,76,18,9,0,0,6,1,Kerentanan Tinggi
+288,Jawa Timur,2024,KABUPATEN BANGKALAN,Orang,11,3,9,1,0,0,0,Kerentanan Relatif Rendah
+289,Jawa Timur,2024,KABUPATEN SAMPANG,Orang,6,0,3,0,0,0,0,Kerentanan Relatif Rendah
+290,Jawa Timur,2024,KABUPATEN PAMEKASAN,Orang,9,1,3,0,0,2,0,Kerentanan Relatif Rendah
+291,Jawa Timur,2024,KABUPATEN SUMENEP,Orang,15,17,2,0,0,3,0,Kerentanan Relatif Rendah
+292,Jawa Timur,2024,KOTA KEDIRI,Orang,6,6,0,0,0,0,0,Kerentanan Relatif Rendah
+293,Jawa Timur,2024,KOTA BLITAR,Orang,0,1,1,0,0,1,0,Kerentanan Relatif Rendah
+294,Jawa Timur,2024,KOTA MALANG,Orang,18,13,5,0,12,3,0,Kerentanan Relatif Rendah
+295,Jawa Timur,2024,KOTA PROBOLINGGO,Orang,10,9,5,0,0,3,0,Kerentanan Relatif Rendah
+296,Jawa Timur,2024,KOTA PASURUAN,Orang,2,3,2,0,0,0,0,Kerentanan Relatif Rendah
+297,Jawa Timur,2024,KOTA MOJOKERTO,Orang,1,1,1,0,0,0,0,Kerentanan Relatif Rendah
+298,Jawa Timur,2024,KOTA MADIUN,Orang,7,2,0,0,0,0,0,Kerentanan Relatif Rendah
+299,Jawa Timur,2024,KOTA SURABAYA,Orang,43,28,20,2,1,14,1,Kerentanan Tinggi
+300,Jawa Timur,2024,KOTA BATU,Orang,4,10,2,1,0,5,0,Kerentanan Relatif Rendah
