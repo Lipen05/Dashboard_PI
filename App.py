@@ -221,7 +221,7 @@ with col1:
         template="plotly_dark"
     )
     fig_tree.update_layout(height=420, margin=dict(t=10, b=10, r=10, l=10))
-    st.plotly_chart(fig_tree, use_container_width=True)
+    st.plotly_chart(fig_tree, width="stretch")
     
     # --- REKAPAN DATA CSV UNTUK GAMBAR 1 ---
     st.markdown("#### 📋 Rekapan Data: Proporsi Sebaran Kasus Per Provinsi")
@@ -229,7 +229,7 @@ with col1:
         summary_prov = df_filter.groupby("Provinsi")["Total_Kasus"].sum().reset_index()
         summary_prov["Persentase (%)"] = ((summary_prov["Total_Kasus"] / summary_prov["Total_Kasus"].sum()) * 100).round(2)
         summary_prov = summary_prov.sort_values(by="Total_Kasus", ascending=False).reset_index(drop=True)
-        st.dataframe(summary_prov, use_container_width=True, height=150)
+        st.dataframe(summary_prov, width="stretch", height=150)
         
         # Tombol download CSV Gambar 1
         csv_g1 = summary_prov.to_csv(index=False).encode('utf-8')
@@ -252,13 +252,13 @@ with col2:
     )
     fig_trend.update_layout(height=420)
     fig_trend.update_traces(line=dict(color="#14245C", width=3))
-    st.plotly_chart(fig_trend, use_container_width=True)
+    st.plotly_chart(fig_trend, width="stretch")
     
     # --- REKAPAN DATA CSV UNTUK GAMBAR 2 ---
     st.markdown("#### 📋 Rekapan Data: Historis Tren Kasus Tahunan")
     if len(trend_data) > 0:
         trend_table = trend_data.rename(columns={"Tahun_Str": "Tahun", "Total_Kasus": "Total_Kasus_Korban"}).reset_index(drop=True)
-        st.dataframe(trend_table, use_container_width=True, height=150)
+        st.dataframe(trend_table, width="stretch", height=150)
         
         # Tombol download CSV Gambar 2
         csv_g2 = trend_table.to_csv(index=False).encode('utf-8')
@@ -293,7 +293,7 @@ with col3:
         color_discrete_sequence=["#1565C0", "#64B5F6", "#E53935", "#EF9A9A", "#9C27B0", "#81C784"]
     )
     fig_bar.update_layout(height=420, xaxis_title="Provinsi", yaxis_title="Jumlah Korban")
-    st.plotly_chart(fig_bar, use_container_width=True)
+    st.plotly_chart(fig_bar, width="stretch", height=420)
     
     # --- REKAPAN DATA CSV UNTUK GAMBAR 3 ---
     st.markdown("#### 📋 Rekapan Data: Matriks Kasus Fisik Berdasarkan Kabupaten/Kota")
@@ -335,7 +335,7 @@ with col4:
         xaxis=dict(title=dict(text="Jumlah Kasus Fisik", font=dict(size=12))),
         yaxis=dict(title=dict(text="Jumlah Kasus Psikis", font=dict(size=12)))
     )
-    st.plotly_chart(fig_scatter, use_container_width=True)
+    st.plotly_chart(fig_scatter, width="stretch")
     
     # --- REKAPAN DATA CSV UNTUK GAMBAR 4 ---
     st.markdown("#### 📋 Rekapan Data: Total Kasus Berdasarkan Hasil Klaster (Cluster)")
@@ -343,7 +343,7 @@ with col4:
         summary_cluster = df_filter.groupby("Cluster_Label")["Total_Kasus"].sum().reset_index()
         summary_cluster = summary_cluster.rename(columns={"Cluster_Label": "ID Klaster / Label", "Total_Kasus": "Total Dampak Kasus"})
         summary_cluster = summary_cluster.sort_values(by="Total Dampak Kasus", ascending=False).reset_index(drop=True)
-        st.dataframe(summary_cluster, use_container_width=True, height=150)
+        st.dataframe(summary_cluster, width="stretch", height=150)
         
         # Tombol download CSV Gambar 4
         csv_g4 = summary_cluster.to_csv(index=False).encode('utf-8')
@@ -361,7 +361,7 @@ st.subheader("📋 Detail Ringkasan Data & Sampel Matriks")
 with st.expander("Lihat Sampel Tabel Kontribusi & Matriks Pivot Lintas Tahun"):
     kolom_sampel = ["Tahun", "Provinsi", "Kabupaten/Kota", "Fisik", "Psikis", "Seksual", "Cluster_Label"]
     st.markdown("**Sampel Data Terfilter:**")
-    st.dataframe(df_filter[kolom_sampel].head(10), use_container_width=True)
+    st.dataframe(df_filter[kolom_sampel].head(10), width="stretch")
     
     st.markdown("<br>**Matriks Pivot Jumlah Kasus Fisik Berdasarkan Kabupaten/Kota Lintas Tahun:**", unsafe_allow_html=True)
     if len(df_filter) > 0:
@@ -376,7 +376,7 @@ with st.expander("Lihat Sampel Tabel Kontribusi & Matriks Pivot Lintas Tahun"):
         st.write(pivot_wilayah_tahun_full.style.background_gradient(cmap="Reds"))
 
 with st.expander("Lihat Seluruh Data Mentah Hasil Klasterisasi"):
-    st.dataframe(df_filter, use_container_width=True, height=300)
+    st.dataframe(df_filter, width="stretch", height=300)
 
 # Penyediaan unduhan file data aktif utama (Gabungan Keseluruhan)
 csv_data = df_filter.to_csv(index=False).encode('utf-8')
