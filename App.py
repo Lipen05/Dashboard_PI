@@ -104,8 +104,8 @@ with st.sidebar:
     col_logo, col_text = st.columns([1,2])
     
     with col_logo:
-        if os.path.exists("logo.png"):
-            st.image("logo.png", width=60)
+        if os.path.exists("Logo.png"):
+            st.image("Logo.png", width=60)
         else:
             st.markdown("<h1 style='color: white; margin: 0;'>📊</h1>", unsafe_allow_html=True)
 
