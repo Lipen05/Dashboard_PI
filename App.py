@@ -394,5 +394,8 @@ st.download_button(
 st.markdown("---")
 st.caption("""
 Sumber Data: Hasil Pemrosesan Algoritma Klasterisasi K-Means berbasis Data SIMFONI PPA.  
+
 *Dashboard Analitik Monitoring Kasus Kekerasan Tingkat Perempuan Dewasa di Pulau Jawa.*
+
+Periode : 2022-2024.
 """)
